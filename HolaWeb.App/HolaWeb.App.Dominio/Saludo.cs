@@ -6,6 +6,8 @@ namespace HolaWeb.App.Dominio
     {
         public int id {get;set;}
 
+        //saludos
+
         public string EnEspañol {get;set;}
 
         public string EnIngles {get;set;}
